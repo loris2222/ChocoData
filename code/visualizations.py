@@ -1,4 +1,6 @@
 import os
+import webbrowser
+
 import pandas as pd
 import geopandas
 import matplotlib.pyplot as plt
@@ -32,3 +34,4 @@ folium.Choropleth(
 ).add_to(map)
 
 map.save(os.path.join(os.getcwd(), "../pages/choco.html"))
+webbrowser.open(os.path.join(os.getcwd(), "../pages/choco.html"))
