@@ -6,6 +6,8 @@ import geopandas
 import matplotlib.pyplot as plt
 import folium
 
+folium.GeoJsonTooltip
+
 pd.set_option("display.max_columns", 15)
 pd.set_option("display.width", 1000)
 pd.set_option("display.max_rows", 200)
