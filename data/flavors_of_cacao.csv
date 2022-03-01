@@ -401,9 +401,9 @@ Chocolate Con Amor,Ocumare,1764,2016,80%,U.S.A.,3,Criollo (Ocumare),Venezuela
 Chocolate Con Amor,Ecuador,1764,2016,70%,U.S.A.,3.25, ,Ecuador
 Chocolate Con Amor,Nicaragua,1768,2016,80%,U.S.A.,2.75, ,Nicaragua
 Chocolate Conspiracy,Peru,1259,2014,74%,U.S.A.,2.75, ,Peru
-Chocolate Makers,Tres Hombres,1530,2015,75%,Amsterdam,3.25,Trinitario,Dominican Republic
-Chocolate Makers,"Congo, Gorilla bar",1530,2015,68%,Amsterdam,3.5,Forastero,Congo
-Chocolate Makers,"Peru, Awagum bar",1530,2015,80%,Amsterdam,3.75,Criollo,Peru
+Chocolate Makers,Tres Hombres,1530,2015,75%,Netherlands,3.25,Trinitario,Dominican Republic
+Chocolate Makers,"Congo, Gorilla bar",1530,2015,68%,Netherlands,3.5,Forastero,Congo
+Chocolate Makers,"Peru, Awagum bar",1530,2015,80%,Netherlands,3.75,Criollo,Peru
 "Chocolate Tree, The",Maranon,1582,2015,69%,Scotland,3.75,Forastero (Nacional),Peru
 "Chocolate Tree, The",Carenero Superior,1582,2015,80%,Scotland,3.75,Trinitario,Venezuela
 "Chocolate Tree, The",Peru,1121,2013,70%,Scotland,3.75,Forastero (Nacional),Peru
@@ -1109,7 +1109,7 @@ Mesocacao,"La Tronca, Matagalpa",1351,2014,70%,Honduras,3.25, ,Nicaragua
 Mesocacao,"La Tronca, Matagalpa",1351,2014,80%,Honduras,3.5, ,Nicaragua
 Metiisto,"Fazenda Sempre Firme P., Bahia",1267,2014,70%,Sweden,3, ,Brazil
 Metiisto,Akesson Estate,1267,2014,72%,Sweden,3.5,Trinitario,Madagascar
-Metropolitan,South America,1688,2015,70%,Amsterdam,3.5,Trinitario,South America
+Metropolitan,South America,1688,2015,70%,Netherlands,3.5,Trinitario,South America
 Michel Cluizel,"Chiapas, Mokaya P.",963,2012,66%,France,3.75, ,Mexico
 Michel Cluizel,"Carenero Superior, Concepcion",117,2007,66%,France,3.5,Trinitario,Venezuela
 Michel Cluizel,Vila Gracinda,135,2007,67%,France,3.5,Forastero,Sao Tome
@@ -1190,7 +1190,7 @@ Noble Bean aka Jerjobo,Maranon Canyon,1299,2014,75%,U.S.A.,3.25,Forastero (Nacio
 Noir d' Ebine,Venezuela,837,2012,70%,U.S.A.,3, ,Venezuela
 Noir d' Ebine,Ecuador,841,2012,70%,U.S.A.,3, ,Ecuador
 Nova Monda,"La Patriota, cacao Indio, purple label",931,2012,70%,Nicaragua,3, ,Nicaragua
-Nova Monda,"La Dalia, Matagalpa,cacao Bisesto,green label",935,2012,75%,Niacragua,2.75, ,Nicaragua
+Nova Monda,"La Dalia, Matagalpa,cacao Bisesto,green label",935,2012,75%,Nicaragua,2.75, ,Nicaragua
 Nova Monda,"Punta Galera, cacao Nacional, gold label",935,2012,80%,Nicaragua,3.25,Forastero (Nacional),Ecuador
 Nuance,"Ghana, 2013",1454,2015,70%,U.S.A.,3.75,Forastero,Ghana
 Nuance,"Ecuador, 2013",1458,2015,70%,U.S.A.,2.75,Trinitario,Ecuador
@@ -1360,7 +1360,7 @@ Raaka,Virunga,1708,2015,75%,U.S.A.,2.75,Forastero,Congo
 Raaka,Madagascar,959,2012,75%,U.S.A.,3.25,Trinitario,Madagascar
 Raaka,La Red,785,2011,85%,U.S.A.,3.5, ,Dominican Republic
 Rain Republic,Suchitepequez E.,470,2010,70%,Guatemala,2.75, ,Guatemala
-Rancho San Jacinto,Ecuador,565,2010,75%,Eucador,3,"Forastero(Arriba, CCN)",Ecuador
+Rancho San Jacinto,Ecuador,565,2010,75%,Ecuador,3,"Forastero(Arriba, CCN)",Ecuador
 Ranger,"San Martin, Batch 2",1558,2015,70%,U.S.A.,2.5, ,Peru
 Ranger,"Chulucanas, Batch 1",1562,2015,80%,U.S.A.,3.25, ,Peru
 Ranger,"Tumbes, Batch 2",1562,2015,73%,U.S.A.,3.5,Criollo,Peru
