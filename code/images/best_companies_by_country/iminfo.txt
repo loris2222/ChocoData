@@ -1,0 +1,57 @@
+france,1067,1311
+u.s.a.,1500,1311
+fiji,533,541
+ecuador,877,1311
+mexico,916,1311
+switzerland,1114,1311
+netherlands,954,1311
+spain,1253,1311
+peru,1450,1311
+canada,1216,1311
+italy,639,1311
+brazil,733,1311
+u.k.,1338,1311
+australia,1119,1311
+wales,697,541
+belgium,924,1311
+germany,1192,1311
+russia,642,541
+puerto rico,865,1311
+venezuela,894,1311
+colombia,917,1311
+japan,955,1311
+new zealand,1228,1311
+costa rica,724,1311
+south korea,920,926
+scotland,997,1311
+martinique,1011,541
+sao tome,837,541
+argentina,1357,926
+guatemala,800,926
+south africa,719,926
+bolivia,651,541
+st. lucia,880,541
+portugal,842,541
+singapore,586,541
+denmark,971,1311
+vietnam,760,926
+grenada,1062,541
+israel,736,541
+india,573,541
+czech republic,583,541
+domincan republic,690,926
+finland,549,926
+madagascar,1345,1311
+philippines,651,541
+sweden,697,1311
+poland,1104,926
+austria,819,1311
+honduras,757,541
+nicaragua,809,926
+lithuania,651,926
+chile,583,541
+ghana,723,541
+iceland,638,541
+hungary,788,926
+suriname,829,541
+ireland,856,541
