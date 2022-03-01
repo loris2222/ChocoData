@@ -18,9 +18,18 @@ chocodata['Company Location'] = chocodata['Company Location'].str.lower()
 
 world = geopandas.read_file(geopandas.datasets.get_path('naturalearth_lowres'))
 world['name'] = world['name'].str.lower()
+world.loc[(world['name'] == "côte d'ivoire"), 'name'] = "ivory coast"
 
-merge = world.merge(chocodata, how='left', left_on=["name"], right_on=["Company Location"])
+merge = chocodata.merge(world, how='left', left_on=["Company Location"], right_on=["name"])
 company_location_counts = merge.groupby(["name"]).size().reset_index(name='counts')
+locations = list(company_location_counts["name"])
+s = set()
+for elem in list(world["name"]):
+    if elem not in locations:
+        s.add(elem)
+
+print(s)
+exit()
 
 map = folium.Map()
 folium.Choropleth(

@@ -4,6 +4,13 @@
     <list default="true" id="5eae61b6-485e-454a-964d-b229127b2adf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/Companies and Chocostats.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/Companies and Chocostats.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/images/avg_cocoaPercentage.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/images/avg_cocoaPercentage.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/images/best_beanTypes.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/images/best_beanTypes.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/images/best_broadBeanOrigins.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/images/best_broadBeanOrigins.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/images/best_companies.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/code/images/best_companies.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/images/best_companies_by_country/iminfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code/images/best_companies_by_country/iminfo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/visualizations.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/visualizations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/flavors_of_cacao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/flavors_of_cacao.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,23 +42,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/code/visualizations.py" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="chocostats" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="visualizations" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ChocoData" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\boffi\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="SDK_HOME" value="N:\PycharmProjects\ChocoData\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/visualizations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +81,7 @@
       <workItem from="1645535523800" duration="1842000" />
       <workItem from="1645627386655" duration="6420000" />
       <workItem from="1645634411067" duration="880000" />
-      <workItem from="1646141744066" duration="5205000" />
+      <workItem from="1646141744066" duration="7704000" />
     </task>
     <task id="LOCAL-00001" summary="Added choropleth with average ratings by country and tooltips indicating the three top chocolate makers">
       <created>1646145261110</created>
@@ -89,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646145300067</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added chocolate maker count map in ipynb&#10;! Also changed a few items in the chocodata csv as countries were mispelled">
+      <created>1646152319183</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646152319183</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,10 +124,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added choropleth with average ratings by country and tooltips indicating the three top chocolate makers" />
     <MESSAGE value="Added pre-computed images for top-companies-by-country choropleth" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added pre-computed images for top-companies-by-country choropleth" />
+    <MESSAGE value="Added chocolate maker count map in ipynb&#10;! Also changed a few items in the chocodata csv as countries were mispelled" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added chocolate maker count map in ipynb&#10;! Also changed a few items in the chocodata csv as countries were mispelled" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ChocoData$chocostats.coverage" NAME="chocostats Coverage Results" MODIFIED="1645536079061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/ChocoData$visualizations.coverage" NAME="visualizations Coverage Results" MODIFIED="1645441029388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/ChocoData$visualizations.coverage" NAME="visualizations Coverage Results" MODIFIED="1646154042145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
   </component>
 </project>

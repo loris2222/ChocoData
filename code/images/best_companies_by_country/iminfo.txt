@@ -1,5 +1,5 @@
 france,1067,1311
-u.s.a.,1500,1311
+united states of america,1500,1311
 fiji,533,541
 ecuador,877,1311
 mexico,916,1311
