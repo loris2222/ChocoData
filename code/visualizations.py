@@ -20,7 +20,7 @@ world = geopandas.read_file(geopandas.datasets.get_path('naturalearth_lowres'))
 world['name'] = world['name'].str.lower()
 world.loc[(world['name'] == "côte d'ivoire"), 'name'] = "ivory coast"
 
-merge = chocodata.merge(world, how='left', left_on=["Company Location"], right_on=["name"])
+merge = chocodata.merge(world, how='left', left_on=["Broad Bean Origin"], right_on=["name"])
 company_location_counts = merge.groupby(["name"]).size().reset_index(name='counts')
 locations = list(company_location_counts["name"])
 s = set()
